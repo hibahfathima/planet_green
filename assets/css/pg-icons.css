@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "pg-icon";
+  src: url("../fonts/pg-icon.eot?9nn143");
+  src: url("../fonts/pg-icon.eot?9nn143#iefix") format("embedded-opentype"),
+    url("../fonts/pg-icon.ttf?9nn143") format("truetype"),
+    url("../fonts/pg-icon.woff?9nn143") format("woff"),
+    url("../fonts/pg-icon.svg?9nn143#pg-icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="pg-icon-"],
+[class*=" pg-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "pg-icon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pg-icon-email:before {
+  content: "\e900";
+}
+.pg-icon-clock:before {
+  content: "\e901";
+}
+.pg-icon-shopping-cart:before {
+  content: "\e902";
+}
+.pg-icon-phone-call:before {
+  content: "\e903";
+}
+.pg-icon-magnifying-glass:before {
+  content: "\e904";
+}
+.pg-icon-left-arrow:before {
+  content: "\e905";
+}
+.pg-icon-right-arrow:before {
+  content: "\e916";
+}
+.pg-icon-farmer:before {
+  content: "\e906";
+}
+.pg-icon-agriculture:before {
+  content: "\e907";
+}
+.pg-icon-tractor:before {
+  content: "\e908";
+}
+.pg-icon-organic-food:before {
+  content: "\e909";
+}
+.pg-icon-vegetable:before {
+  content: "\e90a";
+}
+.pg-icon-dairy:before {
+  content: "\e90b";
+}
+.pg-icon-farm:before {
+  content: "\e90c";
+}
+.pg-icon-pin:before {
+  content: "\e90d";
+}
+.pg-icon-telephone:before {
+  content: "\e90e";
+}
+.pg-icon-investment:before {
+  content: "\e90f";
+}
+.pg-icon-tractor-1:before {
+  content: "\e910";
+}
+.pg-icon-planting:before {
+  content: "\e911";
+}
+.pg-icon-agriculture-1:before {
+  content: "\e912";
+}
+.pg-icon-customer:before {
+  content: "\e913";
+}
+.pg-icon-agriculture-2:before {
+  content: "\e914";
+}
+.pg-icon-tick:before {
+  content: "\e915";
+}
